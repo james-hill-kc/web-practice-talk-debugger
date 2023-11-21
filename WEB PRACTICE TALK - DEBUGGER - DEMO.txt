@@ -1,0 +1,22 @@
+WEB PRACTICE TALK - DEBUGGER - DEMO
+===================================
+
+
+Using http-server to serve demo app
+
+Demo checklist:
+
+- Fix demo bugs with console.log
+- Fix demo bugs with debugger
+- Debugger features:
+	- Breakpoints
+	- Debugger statement
+	- Stepping through code (over, into, out)
+	- Call stack
+	- Inspecting variables
+	- Scope and watch panels
+	- Debug console
+	- Changing values of variables
+
+
+===
